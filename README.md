@@ -53,10 +53,10 @@ src = https://github.com/siilver94/Predict-Job-Change/assets/57824945/ca9179ce-6
 
 ## 사용 기술
 
-- **Python**
-- **Pandas, Numpy**
-- **Scikit-learn**
-- **Matplotlib, Seaborn**
+- `Python`
+- `Pandas` `Numpy`
+- `Scikit-learn`
+- `Matplotlib` `Seaborn`
 
 <br/>
 
